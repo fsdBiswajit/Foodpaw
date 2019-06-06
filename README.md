@@ -1,4 +1,4 @@
-# Booker's --Beginner project
+# Booker's (Static website)
 
 
 
